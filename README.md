@@ -55,10 +55,5 @@ Total Investment Value: $1900
 - Performing arithmetic calculations
 - Building a simple stock portfolio tracker
 
-## Author
-Saranya S. N. V. S. S.
-
-Python Programming Intern – CodeAlpha
-
 ---
 This project was developed as part of the CodeAlpha Python Programming Internship.
